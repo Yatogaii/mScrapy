@@ -1,0 +1,2 @@
+class HttpRequestsError(Exception):
+    pass
